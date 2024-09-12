@@ -1,0 +1,14 @@
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\bin\Debug\net8.0\ptiAlg2.exe
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\bin\Debug\net8.0\ptiAlg2.deps.json
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\bin\Debug\net8.0\ptiAlg2.runtimeconfig.json
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\bin\Debug\net8.0\ptiAlg2.dll
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\bin\Debug\net8.0\ptiAlg2.pdb
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.AssemblyInfo.cs
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.dll
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\refint\ptiAlg2.dll
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.pdb
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ptiAlg2.genruntimeconfig.cache
+C:\Users\55119\Desktop\ptiAlg2\ptiAlg2\obj\Debug\net8.0\ref\ptiAlg2.dll
